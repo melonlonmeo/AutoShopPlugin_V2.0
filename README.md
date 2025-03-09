@@ -37,8 +37,11 @@
 
 ## 📥 Installation
 1️⃣ **Download** the **AutoShop** plugin from GitHub.
+
 2️⃣ **Place the DLL file** into the **ServerPlugins** folder inside the TShock directory.
+
 3️⃣ **Start or restart** the Terraria server.
+
 4️⃣ The plugin will **automatically create** the necessary directories & config files.
 
 ---
