@@ -96,3 +96,10 @@ The plugin stores item configurations in:
 
 📌 **Install now & enhance your server experience!** 🔥
 
+## If you're feeling happy, you can support me with a cup of coffee so I can develop more new plugins. 💰 USDT BEP20:
+
+## 0x8aee3593c393dce65e0ad240c2face53eb80168d
+
+## Thank you so much! ☕🚀
+
+
