@@ -24,7 +24,7 @@ namespace AutoShopPlugin
     public class AutoShopPlugin : TerrariaPlugin
     {
         public override string Name => "AutoShop";
-        public override Version Version => new Version(1, 0);
+        public override Version Version => new Version(2, 0);
         public override string Author => "GILX_TERRARIAVUI-DEV";
         public override string Description => "Automatically opens a shop to sell potions and fishing baits";
 
